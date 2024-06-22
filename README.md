@@ -7,3 +7,8 @@ assembler with python
 ```bash
 pip install termcolor
 ```
+## Setup
+```bash
+cd assembler
+python asm.py
+```
